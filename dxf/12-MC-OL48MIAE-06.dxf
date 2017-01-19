@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
--0.5
+10000000000
  20
-0.25
+10000000000
  30
 0
   9
 $EXTMAX
  10
-419.5
+-10000000000
  20
-297.25
+-10000000000
  30
 0
   9
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-232.6792899408284
+232.8120710059171
  22
-150.2573964497041
+150.4760946745562
  13
 0
  23
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-304.0295857988166
+314.0123786982248
  41
-1.680924855491329
+1.62748643761302
  42
 50
  43
@@ -22597,55 +22597,9 @@ standard
  44
 1
   0
-MTEXT
-  5
-2DF
-100
-AcDbEntity
-  8
-frame-title
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-303
- 20
-35
- 30
-0
- 40
-3
- 41
-50.91666603066081
- 71
-    1
- 72
-    1
-  1
-Schema: MC-OL48MIAE-06\PAutore: Belardi\PData: 01/16\PFoglio: 12 di 17
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
 INSERT
   5
-2E0
+2DF
 100
 AcDbEntity
   8
@@ -22685,7 +22639,7 @@ mcp2014x-connector-0
   0
 INSERT
   5
-2E1
+2E0
 100
 AcDbEntity
   8
@@ -22725,7 +22679,7 @@ mcp2014x-connector-0
   0
 LINE
   5
-2E2
+2E1
 100
 AcDbEntity
   8
@@ -22749,7 +22703,7 @@ AcDbLine
   0
 LINE
   5
-2E3
+2E2
 100
 AcDbEntity
   8
@@ -22773,7 +22727,7 @@ AcDbLine
   0
 INSERT
   5
-2E4
+2E3
 100
 AcDbEntity
   8
@@ -22813,7 +22767,7 @@ junction
   0
 MTEXT
   5
-2E5
+2E4
 100
 AcDbEntity
   8
@@ -22859,7 +22813,7 @@ standard
   0
 MTEXT
   5
-2E6
+2E5
 100
 AcDbEntity
   8
@@ -22905,7 +22859,7 @@ standard
   0
 LINE
   5
-2E7
+2E6
 100
 AcDbEntity
   8
@@ -22929,7 +22883,7 @@ AcDbLine
   0
 INSERT
   5
-2E8
+2E7
 100
 AcDbEntity
   8
@@ -22969,7 +22923,7 @@ mcp2014x-connector-0
   0
 INSERT
   5
-2E9
+2E8
 100
 AcDbEntity
   8
@@ -23009,7 +22963,7 @@ mcp2014x-connector-0
   0
 LINE
   5
-2EA
+2E9
 100
 AcDbEntity
   8
@@ -23033,7 +22987,7 @@ AcDbLine
   0
 LINE
   5
-2EB
+2EA
 100
 AcDbEntity
   8
@@ -23057,7 +23011,7 @@ AcDbLine
   0
 LINE
   5
-2EC
+2EB
 100
 AcDbEntity
   8
@@ -23078,6 +23032,30 @@ AcDbLine
 202
  21
 100.7
+  0
+LINE
+  5
+2EC
+100
+AcDbEntity
+  8
+schematic
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+252
+ 20
+100.7
+ 11
+252
+ 21
+70.7
   0
 LINE
   5
@@ -23097,30 +23075,6 @@ AcDbLine
  10
 252
  20
-100.7
- 11
-252
- 21
-70.7
-  0
-LINE
-  5
-2EE
-100
-AcDbEntity
-  8
-schematic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-252
- 20
 70.7
  11
 280
@@ -23129,7 +23083,7 @@ AcDbLine
   0
 LINE
   5
-2EF
+2EE
 100
 AcDbEntity
   8
@@ -23153,7 +23107,7 @@ AcDbLine
   0
 LINE
   5
-2F0
+2EF
 100
 AcDbEntity
   8
@@ -23177,7 +23131,7 @@ AcDbLine
   0
 INSERT
   5
-2F1
+2F0
 100
 AcDbEntity
   8
@@ -23217,7 +23171,7 @@ Terminal-Earth
   0
 LINE
   5
-2F2
+2F1
 100
 AcDbEntity
   8
@@ -23241,7 +23195,7 @@ AcDbLine
   0
 LINE
   5
-2F3
+2F2
 100
 AcDbEntity
   8
@@ -23265,7 +23219,7 @@ AcDbLine
   0
 INSERT
   5
-2F4
+2F3
 100
 AcDbEntity
   8
@@ -23305,7 +23259,7 @@ junction
   0
 INSERT
   5
-2F5
+2F4
 100
 AcDbEntity
   8
@@ -23345,7 +23299,7 @@ Terminal-Earth
   0
 INSERT
   5
-2F6
+2F5
 100
 AcDbEntity
   8
@@ -23382,6 +23336,52 @@ Terminal-Earth
 0.35
  45
 0.35
+  0
+MTEXT
+  5
+2F6
+100
+AcDbEntity
+  8
+frame-title
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+303
+ 20
+35
+ 30
+0
+ 40
+3
+ 41
+50.91666603066081
+ 71
+    1
+ 72
+    1
+  1
+Schema: MC-OL48MIAE-06\PFoglio: 12 di 18
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
   0
 ENDSEC
   0
