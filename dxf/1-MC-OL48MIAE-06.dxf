@@ -1115,7 +1115,7 @@ AcDbViewportTableRecord
  21
 1
  12
-225.3472490623104
+225.4581652545316
  22
 144.567318713988
  13
@@ -1145,7 +1145,7 @@ AcDbViewportTableRecord
  40
 289.134637427976
  41
-1.62748643761302
+1.680924855491329
  42
 50
  43
@@ -8205,52 +8205,6 @@ F6
 100
 AcDbEntity
   8
-text
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-210
- 20
-200
- 30
-0
- 40
-10
- 41
-170.8333312133125
- 71
-    2
- 72
-    1
-  1
-SCHEMA MC-OL48MIAE-06\P\PVERSIONE 0.0.1
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-F7
-100
-AcDbEntity
-  8
 frame-title
   6
 ByLayer
@@ -8276,6 +8230,52 @@ AcDbMText
     1
   1
 Schema: MC-OL48MIAE-06\PFoglio: 1 di 18
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+F7
+100
+AcDbEntity
+  8
+text
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+210
+ 20
+200
+ 30
+0
+ 40
+10
+ 41
+170.8333312133125
+ 71
+    2
+ 72
+    1
+  1
+SCHEMA MC-OL48MIAE-06\P\PVERSIONE 0.0.2
   7
 standard
 210
