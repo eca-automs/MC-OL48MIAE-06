@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-150.6004243281471
+172.3733583489681
  22
-110.6923620933522
+106.9699812382739
  13
 0
  23
@@ -1149,9 +1149,9 @@ AcDbViewportTableRecord
  37
 0
  40
-232.7270155586987
+217.8799249530957
  41
-1.312274368231047
+1.799276672694394
  42
 50
  43
@@ -51817,52 +51817,6 @@ ByLayer
 100
 AcDbMText
  10
-225.4955708661418
- 20
-71.65808428775949
- 30
-0
- 40
-4
- 41
-6.666666666666666
- 71
-    1
- 72
-    1
-  1
-YX
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-745
-100
-AcDbEntity
-  8
-labels
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
 25.75637694131593
  20
 68.66653433324097
@@ -51895,7 +51849,7 @@ standard
   0
 MTEXT
   5
-746
+745
 100
 AcDbEntity
   8
@@ -51941,7 +51895,7 @@ standard
   0
 MTEXT
   5
-747
+746
 100
 AcDbEntity
   8
@@ -51987,7 +51941,7 @@ standard
   0
 MTEXT
   5
-748
+747
 100
 AcDbEntity
   8
@@ -52033,7 +51987,7 @@ standard
   0
 MTEXT
   5
-749
+748
 100
 AcDbEntity
   8
@@ -52079,7 +52033,7 @@ standard
   0
 MTEXT
   5
-74A
+749
 100
 AcDbEntity
   8
@@ -52125,7 +52079,7 @@ standard
   0
 MTEXT
   5
-74B
+74A
 100
 AcDbEntity
   8
@@ -52171,7 +52125,7 @@ standard
   0
 MTEXT
   5
-74C
+74B
 100
 AcDbEntity
   8
@@ -52217,7 +52171,7 @@ standard
   0
 MTEXT
   5
-74D
+74C
 100
 AcDbEntity
   8
@@ -52263,7 +52217,7 @@ standard
   0
 MTEXT
   5
-74E
+74D
 100
 AcDbEntity
   8
@@ -52309,7 +52263,7 @@ standard
   0
 MTEXT
   5
-74F
+74E
 100
 AcDbEntity
   8
@@ -52355,7 +52309,7 @@ standard
   0
 MTEXT
   5
-750
+74F
 100
 AcDbEntity
   8
@@ -52401,7 +52355,7 @@ standard
   0
 MTEXT
   5
-751
+750
 100
 AcDbEntity
   8
@@ -52447,7 +52401,7 @@ standard
   0
 MTEXT
   5
-752
+751
 100
 AcDbEntity
   8
@@ -52493,7 +52447,7 @@ standard
   0
 MTEXT
   5
-753
+752
 100
 AcDbEntity
   8
@@ -52539,7 +52493,7 @@ standard
   0
 MTEXT
   5
-754
+753
 100
 AcDbEntity
   8
@@ -52585,7 +52539,7 @@ standard
   0
 MTEXT
   5
-755
+754
 100
 AcDbEntity
   8
@@ -52631,7 +52585,7 @@ standard
   0
 MTEXT
   5
-756
+755
 100
 AcDbEntity
   8
@@ -52677,7 +52631,7 @@ standard
   0
 MTEXT
   5
-757
+756
 100
 AcDbEntity
   8
@@ -52723,7 +52677,7 @@ standard
   0
 MTEXT
   5
-758
+757
 100
 AcDbEntity
   8
@@ -52769,7 +52723,7 @@ standard
   0
 MTEXT
   5
-759
+758
 100
 AcDbEntity
   8
@@ -52815,7 +52769,7 @@ standard
   0
 MTEXT
   5
-75A
+759
 100
 AcDbEntity
   8
@@ -52861,7 +52815,7 @@ standard
   0
 MTEXT
   5
-75B
+75A
 100
 AcDbEntity
   8
@@ -52907,7 +52861,7 @@ standard
   0
 MTEXT
   5
-75C
+75B
 100
 AcDbEntity
   8
@@ -52953,7 +52907,7 @@ standard
   0
 MTEXT
   5
-75D
+75C
 100
 AcDbEntity
   8
@@ -52999,7 +52953,7 @@ standard
   0
 MTEXT
   5
-75E
+75D
 100
 AcDbEntity
   8
@@ -53045,7 +52999,7 @@ standard
   0
 MTEXT
   5
-75F
+75E
 100
 AcDbEntity
   8
@@ -53091,7 +53045,7 @@ standard
   0
 MTEXT
   5
-760
+75F
 100
 AcDbEntity
   8
@@ -53137,7 +53091,7 @@ standard
   0
 MTEXT
   5
-761
+760
 100
 AcDbEntity
   8
@@ -53183,7 +53137,7 @@ standard
   0
 MTEXT
   5
-762
+761
 100
 AcDbEntity
   8
@@ -53229,7 +53183,7 @@ standard
   0
 MTEXT
   5
-763
+762
 100
 AcDbEntity
   8
@@ -53275,7 +53229,7 @@ standard
   0
 MTEXT
   5
-764
+763
 100
 AcDbEntity
   8
@@ -53321,7 +53275,7 @@ standard
   0
 MTEXT
   5
-765
+764
 100
 AcDbEntity
   8
@@ -53367,7 +53321,7 @@ standard
   0
 MTEXT
   5
-766
+765
 100
 AcDbEntity
   8
@@ -53413,7 +53367,7 @@ standard
   0
 MTEXT
   5
-767
+766
 100
 AcDbEntity
   8
@@ -53459,7 +53413,7 @@ standard
   0
 MTEXT
   5
-768
+767
 100
 AcDbEntity
   8
@@ -53505,7 +53459,7 @@ standard
   0
 MTEXT
   5
-769
+768
 100
 AcDbEntity
   8
@@ -53551,7 +53505,7 @@ standard
   0
 MTEXT
   5
-76A
+769
 100
 AcDbEntity
   8
@@ -53597,7 +53551,7 @@ standard
   0
 MTEXT
   5
-76B
+76A
 100
 AcDbEntity
   8
@@ -53643,7 +53597,7 @@ standard
   0
 MTEXT
   5
-76C
+76B
 100
 AcDbEntity
   8
@@ -53689,7 +53643,7 @@ standard
   0
 MTEXT
   5
-76D
+76C
 100
 AcDbEntity
   8
@@ -53735,7 +53689,7 @@ standard
   0
 MTEXT
   5
-76E
+76D
 100
 AcDbEntity
   8
@@ -53781,7 +53735,7 @@ standard
   0
 MTEXT
   5
-76F
+76E
 100
 AcDbEntity
   8
@@ -53827,7 +53781,7 @@ standard
   0
 MTEXT
   5
-770
+76F
 100
 AcDbEntity
   8
@@ -53873,7 +53827,7 @@ standard
   0
 MTEXT
   5
-771
+770
 100
 AcDbEntity
   8
@@ -53919,7 +53873,7 @@ standard
   0
 MTEXT
   5
-772
+771
 100
 AcDbEntity
   8
@@ -53965,7 +53919,7 @@ standard
   0
 MTEXT
   5
-773
+772
 100
 AcDbEntity
   8
@@ -54011,7 +53965,7 @@ standard
   0
 MTEXT
   5
-774
+773
 100
 AcDbEntity
   8
@@ -54057,7 +54011,7 @@ standard
   0
 MTEXT
   5
-775
+774
 100
 AcDbEntity
   8
@@ -54103,7 +54057,7 @@ standard
   0
 MTEXT
   5
-776
+775
 100
 AcDbEntity
   8
@@ -54149,7 +54103,7 @@ standard
   0
 MTEXT
   5
-777
+776
 100
 AcDbEntity
   8
@@ -54195,7 +54149,7 @@ standard
   0
 MTEXT
   5
-778
+777
 100
 AcDbEntity
   8
@@ -54241,7 +54195,7 @@ standard
   0
 MTEXT
   5
-779
+778
 100
 AcDbEntity
   8
@@ -54287,7 +54241,7 @@ standard
   0
 MTEXT
   5
-77A
+779
 100
 AcDbEntity
   8
@@ -54333,7 +54287,7 @@ standard
   0
 MTEXT
   5
-77B
+77A
 100
 AcDbEntity
   8
@@ -54379,7 +54333,7 @@ standard
   0
 MTEXT
   5
-77C
+77B
 100
 AcDbEntity
   8
@@ -54425,7 +54379,7 @@ standard
   0
 MTEXT
   5
-77D
+77C
 100
 AcDbEntity
   8
@@ -54471,7 +54425,7 @@ standard
   0
 MTEXT
   5
-77E
+77D
 100
 AcDbEntity
   8
@@ -54517,7 +54471,7 @@ standard
   0
 MTEXT
   5
-77F
+77E
 100
 AcDbEntity
   8
@@ -54563,7 +54517,7 @@ standard
   0
 MTEXT
   5
-780
+77F
 100
 AcDbEntity
   8
@@ -54609,7 +54563,7 @@ standard
   0
 MTEXT
   5
-781
+780
 100
 AcDbEntity
   8
@@ -54655,7 +54609,7 @@ standard
   0
 MTEXT
   5
-782
+781
 100
 AcDbEntity
   8
@@ -54701,7 +54655,7 @@ standard
   0
 MTEXT
   5
-783
+782
 100
 AcDbEntity
   8
@@ -54747,7 +54701,7 @@ standard
   0
 MTEXT
   5
-784
+783
 100
 AcDbEntity
   8
@@ -54793,7 +54747,7 @@ standard
   0
 LWPOLYLINE
   5
-785
+784
 100
 AcDbEntity
   8
@@ -54828,6 +54782,512 @@ AcDbPolyline
 9.96666666666667
  20
 145
+  0
+MTEXT
+  5
+785
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+143.3857687081037
+ 20
+148.7343031597978
+ 30
+0
+ 40
+4
+ 41
+2.222221374213625
+ 71
+    2
+ 72
+    1
+  1
+S\P0
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+786
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+150.3857687081037
+ 20
+148.7343031597978
+ 30
+0
+ 40
+4
+ 41
+2.222221374213625
+ 71
+    2
+ 72
+    1
+  1
+S\P1
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+787
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+157.3558924404998
+ 20
+148.7343031597978
+ 30
+0
+ 40
+4
+ 41
+2.222221374213625
+ 71
+    2
+ 72
+    1
+  1
+S\P2
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+788
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+164.3558924404998
+ 20
+148.7343031597978
+ 30
+0
+ 40
+4
+ 41
+2.222221374213625
+ 71
+    2
+ 72
+    1
+  1
+S\P3
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+789
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+171.4343117057051
+ 20
+148.7343031597978
+ 30
+0
+ 40
+4
+ 41
+2.222222222222222
+ 71
+    2
+ 72
+    1
+  1
+S\P4
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+78A
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+178.4343117057051
+ 20
+148.7343031597978
+ 30
+0
+ 40
+4
+ 41
+2.222221374213625
+ 71
+    2
+ 72
+    1
+  1
+S\P5
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+78B
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+225.4955708661418
+ 20
+71.65808428775949
+ 30
+0
+ 40
+4
+ 41
+6.666666666666666
+ 71
+    1
+ 72
+    1
+  1
+YX
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+78C
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+188.2354477877788
+ 20
+78.57482128862185
+ 30
+0
+ 40
+4
+ 41
+2.22222222222247
+ 71
+    1
+ 72
+    1
+  1
+G
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+78D
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+186.5148312632104
+ 20
+71.57764742204384
+ 30
+0
+ 40
+4
+ 41
+5.333333333333333
+ 71
+    1
+ 72
+    1
+  1
+P0
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+78E
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+186.7442467998195
+ 20
+64.35105801885672
+ 30
+0
+ 40
+4
+ 41
+4.444444444444445
+ 71
+    1
+ 72
+    1
+  1
+P1
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+78F
+100
+AcDbEntity
+  8
+labels
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+186.7442467998195
+ 20
+57.81271522549694
+ 30
+0
+ 40
+4
+ 41
+5.333333333333333
+ 71
+    1
+ 72
+    1
+  1
+P2
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
   0
 ENDSEC
   0
