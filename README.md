@@ -18,9 +18,20 @@ Automatico trifase, automatico elettronico, manuale.
 Diretto con teleruttori GE `CL06D300MWG`.
 
 ### Potenza massima motore / taglie compatibili
+#### Avviamento diretto
 Taglia|Potenza
 ---|---
 S40|14CV-230VAC/22CV-400VAC
+
+#### Avviamento stella-triangolo
+Taglia|Potenza
+---|---
+S70|24CV-230VAC/43CV-400VAC
+
+#### Avviamento soft-starter
+Taglia|Potenza
+---|---
+S60|17CV-230VAC/35CV-400VAC
 
 ### Allarme
 12VDC, legge 13, allarme porte aperte fuori piano.
